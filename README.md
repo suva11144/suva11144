@@ -1,135 +1,104 @@
-## Hi there 👋
+## 👋 Hi, I’m Suvamoy (aka Suva)
 
-👋 Hi, I’m Suvamoy (aka Suva)
-
-🎓 Computer Science student
-💻 Full-stack developer (MERN)
-🧩 Strong in Data Structures & Algorithms
-📚 Solid foundation in Core Computer Science
-🚀 Building real-world, scalable web applications
+🎓 Computer Science student  
+💻 Full-stack developer (MERN)  
+🧩 Strong in Data Structures & Algorithms  
+📚 Solid foundation in Core Computer Science  
+🚀 Building real-world, scalable web applications  
 
 I focus on backend-first thinking, clean architecture, and strong CS fundamentals.
 
-💼 Internship Experience
-Software Development Intern
+---
 
-Zidio Development
+## 💼 Internship Experience
 
-Worked on frontend development and UI implementation
+### Software Development Intern  
+**Zidio Development**
 
-Built responsive and reusable UI components
+- Worked on frontend development and UI implementation  
+- Built responsive and reusable UI components  
+- Designed and implemented database models  
+- Applied DSA concepts in real-world problem solving  
+- Followed core software engineering and development practices  
 
-Designed and implemented database models
+---
 
-Applied DSA concepts in real-world problem solving
+## 🧠 What I’m Working On
 
-Followed core software engineering and development practices
+- Data Structures & Algorithms  
+- Full-stack MERN applications  
+- Real-time features (chat, live updates, notifications)  
+- Backend APIs and system design  
 
-🧠 What I’m working on
+---
 
-Data Structures & Algorithms
+## 🛠 Tech Stack
 
-Full-stack MERN applications
+### Languages
+- JavaScript  
+- TypeScript  
+- Java  
+- C  
+- Python  
+- SQL  
 
-Real-time features (chat, live updates, notifications)
+### Core Computer Science
+- Object-Oriented Programming (OOPs)  
+- Operating Systems (OS)  
+- Database Management Systems (DBMS)  
+- Computer Networks (CN)  
+- Computer Organization & Architecture (COA)  
 
-Backend APIs & system design
+### Data Structures & Algorithms
+- Arrays, Strings, Linked Lists  
+- Stacks, Queues  
+- Trees, Hashing  
+- Recursion and basic Dynamic Programming  
 
-🛠 Tech Stack
-Languages
+### Frontend
+- React  
+- HTML, CSS  
 
-JavaScript
+### Backend & Frameworks
+- Node.js  
+- Express.js  
+- Flask  
+- REST APIs  
 
-TypeScript
+### Databases
+- MongoDB  
+- MySQL  
+- SQLite  
 
-Java
+### Templating
+- Jinja  
 
-C
+### Developer Tools
+- Git & GitHub  
+- Vercel  
+- Postman  
+- Cursor (AI-powered editor)  
+- GitHub Copilot  
 
-Python
+---
 
-SQL
+## 📌 Projects
 
-Core Computer Science
+- **Social Media Web App** – posts, likes, comments, real-time chat & notifications  
+- **Algorithm Visualizer** – visual learning tool for algorithms  
+- **Utility / Booking System** – backend-focused system with structured APIs  
 
-Object-Oriented Programming (OOPs)
+---
 
-Operating Systems (OS)
+## 📈 Currently Learning
 
-Database Management Systems (DBMS)
+- Advanced DSA and problem-solving patterns  
+- Backend scalability and architecture  
+- Real-time system design  
 
-Computer Networks (CN)
+---
 
-Computer Organization & Architecture (COA)
+## 🤝 Let’s Connect
 
-Data Structures & Algorithms
-
-Arrays, Strings, Linked Lists
-
-Stacks, Queues
-
-Trees, Hashing
-
-Recursion & basic Dynamic Programming
-
-Frontend
-
-React
-
-HTML, CSS
-
-Backend & Frameworks
-
-Node.js
-
-Express.js
-
-Flask
-
-REST APIs
-
-Databases
-
-MongoDB
-
-MySQL
-
-SQLite
-
-Templating
-
-Jinja
-
-Developer Tools
-
-Git & GitHub
-
-Vercel
-
-Postman
-
-Cursor (AI-powered editor)
-
-GitHub Copilot
-
-📌 Projects
-
-Social Media Web App – posts, likes, comments, real-time chat & notifications
-
-Algorithm Visualizer – visual learning tool for algorithms
-
-Utility / Booking System – backend-focused system with structured APIs
-
-📈 Currently Learning
-
-Advanced DSA & problem-solving patterns
-
-Backend scalability & architecture
-
-Real-time system design
-
-🤝 Let’s Connect
-
-GitHub: you’re already here 🙂
-
-Open to internships, collaboration, and learning opportunities
+- GitHub: you’re already here 🙂  
+- Open to internships, collaboration, and learning opportunities  
